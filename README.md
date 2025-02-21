@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭I am a student of Computer Software Engineering at the UET Mardan.<br>👯 I’m looking to collaborate Web Development projects.<br>🤝 I’m looking for help with designing web based projects.<br>🌱 I’m currently learning React Js and Next Js .
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khanafridi2244&label=Profile%20views&color=0e75b6&style=flat" alt="khanafridi2244" /> </p>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sikoo_afridi?igsh=eDB6aGdqcm01MTN2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sikandar-khan-afridi-b87a8123a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bw88zZApNSHyIo2oA3GJsXQ%3D%3D) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sikanderafridi.854@gmail.com) 
