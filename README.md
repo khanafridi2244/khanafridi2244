@@ -21,8 +21,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=khanafridi2244&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=khanafridi2244&theme=dark&hide_border=false&layout=compact)
 
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=khanafridi2244&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🏆 GitHub Trophies
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=khanafridi2244&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 ## 🔥 Recent GitHub Activity:
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khanafridi2244&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
